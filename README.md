@@ -15,3 +15,6 @@ https://colab.research.google.com/github/hackerosh/hackeroshrdp/blob/main/hacker
 12. Now Paste the Ngrok hostname in the VNC Server and Click OK
 12. Open the Server, type the password and then OK
 Enjoy
+
+
+Support Bitcoin: 3QMuF7jm8rt6awaet4LdFc1qyd2fmDgZg7
