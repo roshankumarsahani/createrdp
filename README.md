@@ -1,4 +1,5 @@
-## Open in Colab - https://colab.research.google.com/github/hackerosh/hackeroshrdp/blob/main/hackeroshrdp.ipynb
+## Open in Colab
+https://colab.research.google.com/github/hackerosh/hackeroshrdp/blob/main/hackeroshrdp.ipynb
 
 
 Create a NGROK Account to configure tunnel
